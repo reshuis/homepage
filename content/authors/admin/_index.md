@@ -14,7 +14,7 @@ social:
     link: https://scholar.google.nl/citations?user=9UcBBY4AAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/reshuis
+    link: https://github.com/heshuis
   - icon: linkedin
     icon_pack: fab
     link: https://nl.linkedin.com/in/rik-eshuis-b9925969
