@@ -8,7 +8,7 @@ weight: 20
 title: Biography
 design:
   background:
-    image: avatar.jpg
+    image: ""
 ---
 Rik Eshuis works as an Associate Professor of Intelligent Information Systems at  Eindhoven University of Technology, in the Department of  Industrial Engineering & Innovation Sciences (IE&IS), subgroup Information Systems. His key areas of expertise include business process modeling, business process management and business information systems engineering. 
 
