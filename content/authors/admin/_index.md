@@ -1,7 +1,7 @@
 ---
 title: Rik Eshuis
 role: Associate Professor of Intelligent Information Systems
-avatar_filename: https://is.ieis.tue.nl/staff/heshuis/eshuis2017.png
+avatar_filename: avatar.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests: []
@@ -20,7 +20,7 @@ social:
     link: https://nl.linkedin.com/in/rik-eshuis-b9925969
 organizations:
   - name: Eindhoven University of Technology
-    url: www.tue.nl
+    url: https://www.tue.nl
 education:
   courses:
     - course: PhD in Computer Science
