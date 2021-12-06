@@ -1,7 +1,7 @@
 ---
 title: Rik Eshuis
 role: Associate Professor of Intelligent Information Systems
-avatar_filename: https://research.tue.nl/files-asset/93055203/Eshuis_Rik_IEIS_PO_VH_4631.jpg?w=320&f=webp
+avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests: []
