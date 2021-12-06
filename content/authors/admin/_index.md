@@ -2,8 +2,8 @@
 title: Rik Eshuis
 role: Associate Professor of Intelligent Information Systems
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include business process modeling, business process
+  management and business information systems engineering.
 interests: []
 social:
   - icon: envelope
