@@ -9,32 +9,26 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.nl/citations?user=9UcBBY4AAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/reshuis
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://nl.linkedin.com/in/rik-eshuis-b9925969
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Eindhoven University of Technology
+    url: www.tue.nl
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Computer Science
+      institution: University of Twente
+      year: 2002
+    - course: MSc in Computer Science
+      institution: University of Twente
+      year: 1998
 email: ""
 superuser: true
 highlight_name: true
